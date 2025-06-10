@@ -303,6 +303,7 @@ h6 {
   color: var(--bs-white);
   font-size: 30px;
   font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif
 }
 .fbs__net-navbar .navbar-brand .logo.dark {
   display: none;
